@@ -1,0 +1,345 @@
+{
+    "bromantane": {
+        "name": "Bromantane",
+        "other-names": [
+            "Bromantan",
+            "Ladasten"
+        ],
+        "systematic-name": "N-(4-Bromophenyl)adamantan-2-amine",
+        "tags": [
+            "Dopamine",
+            "Energy",
+            "Endurance",
+            "Adaptogen"
+        ],
+        "solubility": {
+            "water": false,
+            "fat": true
+        },
+        "reported-taste": "Neutral Chemical",
+        "rating": "A",
+        "potency": "B+",
+        "consistency": "B+",
+        "recommended-dose": "25-50mg",
+        "effects-within": "week",
+        "taken-with-food": "Yes",
+        "compounding-effects": true,
+        "lasting-effects": "Partial",
+        "time-of-dose": "disputed",
+        "legality": "Gray",
+        "approx-price-30-days-usd-low": 15,
+        "approx-price-30-days-usd-high": 20,
+        "description-paragraphs": [
+            "Bromantane is a synthetic adaptogen, which means it belongs to the class of compounds known as actoprotectors, which can boost physical activity. It has anxiolytic properties, meaning it can help reduce anxiety.",
+            "Bromantane is not only an effective mild stimulant but a dopamine upregulator also.",
+            "In Russia it was used under the name “Ladasten” for the treatment of asthenia, which is similar to chronic fatigue syndrome. In a study of over 700 patients, it was concluded that Ladasten was not only safe but even lacked side effects [citation needed]."
+        ],
+        "positive-synergies": [
+            {
+                "name": "alcar",
+                "link": true,
+                "reason": "Stacks well."
+            }
+        ],
+        "negative-synergies": [
+            {
+                "name": "Amphetamine",
+                "link": false,
+                "reason": "Negatively impacts bromantane effects."
+            }
+        ],
+        "benefits": [
+            {
+                "effect": "Dopamine Upregulation",
+                "details": "Bromantane is a significant dopamine upregulator with compounding effects over time. It is also reported to increase energy and to improve mood.",
+                "expanded-details": "",
+                "studies": [
+                    ["The Pharmacology of Actoprotectors: Practical Application for Improvement of Mental and Physical Performance", "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3762282/"],
+                    ["A Nutrient Combination that Can Affect Synapse Formation", "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4011061/"]
+                ],
+                "anecdotes": []
+            },
+            {
+                "effect": "Energy",
+                "details": "Bromantane is a mild stimulant that can make you more energized, however timing of dose is disputed.",
+                "expanded-details": "",
+                "studies": [],
+                "anecdotes": []
+            }
+        ]
+    },
+    "alcar": {
+        "name": "ALCAR",
+        "other-names": [
+            "Acetyl-L-Carnitine"
+        ],
+        "systematic-name": "(R)-3-Acetyloxy-4-trimethylammonio-butanoate",
+        "tags": [
+            "Dopamine",
+            "Seretonin",
+            "Acetylcholine",
+            "Aging"
+        ],
+        "solubility": {
+            "water": true,
+            "fat": true
+        },
+        "reported-taste": "Pleasant Citrus",
+        "rating": "B+",
+        "potency": "B",
+        "consistency": "C+",
+        "recommended-dose": "500-1500mg",
+        "effects-within": "week",
+        "taken-with-food": "No",
+        "compounding-effects": true,
+        "lasting-effects": "No",
+        "time-of-dose": "morning",
+        "legality": "Full",
+        "approx-price-30-days-usd-low": 4,
+        "approx-price-30-days-usd-high": 6,
+        "description-paragraphs": [
+            "ALCAR is a highly bioavailable form of the lysine derivative L-carnitine, which is produced naturally by the body but can also be synthesized from animal proteins in the diet.",
+            "ALCAR is a precursor of the “learning neurotransmitter,” acetylcholine, which makes it a valuable nootropic. Also, studies indicate it influences cerebral energy metabolism by upregulating levels of noradrenaline and serotonin and decreasing levels of the inhibitory neurotransmitter GABA.",
+            "Its interactions with GABA should be noted if you are interested in raising your GABA levels."
+        ],
+        "positive-synergies": [
+            {
+                "name": "bromantane",
+                "link": true,
+                "reason": "Makes dopaminergic effects more potent."
+            }
+        ],
+        "negative-synergies": [
+            {
+                "name": "High Testosterone",
+                "link": false,
+                "reason": "ALCAR may have negative synergies with people who have high testosterone (like anger or irritability)."
+            },
+            {
+                "name": "Other Acetylcholine Actors",
+                "link": false,
+                "reason": "Mixing it with anything else that works on acetylcholine can potentially cause negative effects due to there being too much."
+            }
+        ],
+        "benefits": [
+            {
+                "effect": "Dopamine Upregulation",
+                "details": "ALCAR is useful more so for age-related dopaminergic decline than over-stimulation. For someone over about the age 40, this is a nootropic to look into.",
+                "expanded-details": "",
+                "studies": [],
+                "anecdotes": []
+            },
+            {
+                "effect": "Aging",
+                "details": "ALCAR is especially helpful for those suffering from age-related cognitive decline. Studies show it helps stop or reverse brain degeneration with Alzheimer's Disease, and depressive disorders. Particularly in the early stages of the disease.",
+                "expanded-details": "",
+                "studies": [],
+                "anecdotes": []
+            }
+        ]
+    },
+    "uridine": {
+        "name": "Uridine",
+        "other-names": [
+            "Tri-Acetyl-Uridine/TAU (Variant)"
+        ],
+        "systematic-name": "Unknown",
+        "tags": [
+            "Dopamine",
+            "Cognition"
+        ],
+        "solubility": {
+            "water": true,
+            "fat": true
+        },
+        "reported-taste": "Unknown",
+        "rating": "A+",
+        "potency": "B+",
+        "consistency": "B+",
+        "recommended-dose": "25-50mg (TAU)",
+        "effects-within": "week",
+        "taken-with-food": "No",
+        "compounding-effects": true,
+        "lasting-effects": "Partial",
+        "time-of-dose": "b-sleep",
+        "legality": "Full",
+        "approx-price-30-days-usd-low": 1,
+        "approx-price-30-days-usd-high": 2,
+        "description-paragraphs": [
+            "Uridine is an effective and affordable dopamine upregulator. There are multiple forms such as Uridine Monophosphate, however Tri-Acetyl-Uridine (TAU) is the most recommended form of Uridine to supplement."
+        ],
+        "positive-synergies": [
+            {
+                "name": "DHA",
+                "link": false,
+                "reason": "Makes dopaminergic effects much more potent. Highly recommended if you take Uridine."
+            },
+            {
+                "name": "B-Complex",
+                "link": false,
+                "reason": "Helps recover B-Vitamins used by Uridine. Do not take too much B-complex however, as too much can have negative effects."
+            },
+            {
+                "name": "Choline Source",
+                "link": false,
+                "reason": "Choline aids in accelerating synapse formation and it aids Uridine+DHA. However you should caution with choline as it depletes seretonin so you may want to take something like ALCAR too."
+            }
+        ],
+        "negative-synergies": [
+            {
+                "name": "tbf",
+                "link": false,
+                "reason": "..."
+            }
+        ],
+        "benefits": [
+            {
+                "effect": "Dopamine Upregulation",
+                "details": "Uridine is a potent dopamine upregulator, especially when paired with DHA.",
+                "expanded-details": "Uridine upregulates the D1 receptor but it is studied to downregulate the D2 receptor, however, this is reported to be a possible short-term effect.",
+                "studies": [
+                    ["Nutritional modifiers of aging brain function: Increasing the formation of brain synapses by administering uridine and other phosphatide precursors", "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3062998/"],
+                    ["Antiepileptic effect of uridine may be caused by regulating dopamine release and receptor expression in corpus striatum", "https://www.sciencedirect.com/science/article/abs/pii/S000689931830146X"]
+                ],
+                "anecdotes": [
+                    ["Downregulation of D2R from uridine Monophosphate", "https://www.reddit.com/r/Nootropics/comments/ybomkk/downregulation_of_d2r_from_uridine_monophosphate/"]
+                ]
+            }
+        ]
+    },
+    "pramiracetam": {
+        "name": "Pramiracetam",
+        "other-names": [
+            "Pramistar",
+            "Neupramir",
+            "Remen"
+        ],
+        "systematic-name": "N-[2-(Diisopropylamino)ethyl]-2-(2-oxopyrrolidin-1-yl)acetamide",
+        "tags": [
+            "Racetam",
+            "Ampakine",
+            "Memory",
+            "Cognition"
+        ],
+        "solubility": {
+            "water": false,
+            "fat": true
+        },
+        "reported-taste": "Awful",
+        "rating": "B+",
+        "potency": "A",
+        "consistency": "A",
+        "recommended-dose": "250-500mg (2 times a day)",
+        "effects-within": "week",
+        "taken-with-food": "No",
+        "compounding-effects": true,
+        "lasting-effects": "Partial",
+        "time-of-dose": "multiple",
+        "legality": "Sketchy",
+        "approx-price-30-days-usd-low": 30,
+        "approx-price-30-days-usd-high": 45,
+        "description-paragraphs": [
+            "Pramiracetam is a more-potent derivative of piracetam, and it is used for its cognitive and memory-boosting effects. It has effects of many piracetams like increased alertness and general focus.",
+            "Some may experience 'emotion-numbing' effects to some extent when using Pramiracetam, but using Aniracetam alongside it is reported to balance out these effects.",
+            "Sourcing Pramiracetam may be difficult bare in mind, and it is expensive."
+        ],
+        "positive-synergies": [
+            {
+                "name": "Choline Source",
+                "link": false,
+                "reason": "Choline aids in promoting Racetam's positive effects. Too little Choline can mean Racetams do not seem to work or they may have negative effects."
+            },
+            {
+                "name": "Aniracetam",
+                "link": false,
+                "reason": "Aniracetam has a great synergy with Pramiracetam. It helps to balance out the slightly 'emotion-numbing' effects of Pramiracetam."
+            }
+        ],
+        "negative-synergies": [
+            {
+                "name": "tbf",
+                "link": false,
+                "reason": "..."
+            }
+        ],
+        "benefits": [
+            {
+                "effect": "Enhanced Memory",
+                "details": "Pramiracetam has been studied to improve short and long-term memory.",
+                "expanded-details": "",
+                "studies": [
+                ],
+                "anecdotes": [
+                    
+                ]
+            }
+        ]
+    },
+    "animaracetam": {
+        "name": "Aniracetam",
+        "other-names": [
+            "Ampamet",
+            "Memodrin",
+            "Pergamid"
+        ],
+        "systematic-name": "N-[2-(Diisopropylamino)ethyl]-2-(2-oxopyrrolidin-1-yl)acetamide",
+        "tags": [
+            "Racetam",
+            "Ampakine",
+            "Socialization",
+            "Dopamine"
+        ],
+        "solubility": {
+            "water": true,
+            "fat": true
+        },
+        "reported-taste": "Unkonwn",
+        "rating": "A",
+        "potency": "B+",
+        "consistency": "A",
+        "recommended-dose": "...",
+        "effects-within": "week",
+        "taken-with-food": "No",
+        "compounding-effects": true,
+        "lasting-effects": "Partial",
+        "time-of-dose": "multiple",
+        "legality": "Sketchy",
+        "approx-price-30-days-usd-low": 20,
+        "approx-price-30-days-usd-high": 25,
+        "description-paragraphs": [
+            "Aniracetam is a derivative of piracetam."
+        ],
+        "positive-synergies": [
+            {
+                "name": "Choline Source",
+                "link": false,
+                "reason": "Choline aids in promoting Racetam's positive effects. Too little Choline can mean Racetams do not seem to work or they may have negative effects."
+            },
+            {
+                "name": "Pramiracetam",
+                "link": false,
+                "reason": "Pramiracetam has a great synergy with Pramiracetam, on top of other Racetams such as Oxiracetam or Piracetam."
+            }
+        ],
+        "negative-synergies": [
+            {
+                "name": "tbf",
+                "link": false,
+                "reason": "..."
+            }
+        ],
+        "benefits": [
+            {
+                "effect": "More Social",
+                "details": "Aniracetam has been shown (through studies and anecdotes) to reduce anxiety and to increase socialization.",
+                "expanded-details": "These results indicate that aniracetam possesses a wide range of anxiolytic properties, which may be mediated by an interaction between cholinergic, dopaminergic and serotonergic systems. Thus, our findings suggest the potential usefulness of aniracetam against various types of anxiety-related disorders and social failure/impairments.",
+                "studies": [
+                    ["Anxiolytic effects of aniracetam in three different mouse models of anxiety and the underlying mechanism ","https://pubmed.ncbi.nlm.nih.gov/11412837/"]
+                ],
+                "anecdotes": [
+                    ["First week on Aniracetam. A changed man.", "https://www.reddit.com/r/Nootropics/comments/1glhwd/first_week_on_aniracetam_a_changed_man/"]
+                ]
+            }
+        ]
+    }
+}

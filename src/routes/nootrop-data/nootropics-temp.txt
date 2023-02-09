@@ -1,0 +1,40 @@
+"nalt": {
+        "name": "NALT",
+        "other-names": [
+            "N-Acetyl-L-Tyrosine"
+        ],
+        "postive-synergies": [
+            {
+                "name": "fish-oil",
+                "link": true,
+                "reason": ""
+            }
+        ]
+    },
+    "uridine": {
+        "name": "Urdine",
+        "positive-synergies": [
+            {
+                "name": "dha",
+                "link": true,
+                "reason": "Increases potency."
+            },
+            {
+                "name": "B-Complex (Low dose)",
+                "link": false,
+                "reason": "Helps recover B-Vitamins used by Uridine."
+            }
+        ]
+    },
+    "ldn": {
+
+    },
+    "alcar": {
+
+    },
+    "aniracetam": {
+        "tags": [
+            "Dopamine",
+            "Ampakine"
+        ]
+    }
