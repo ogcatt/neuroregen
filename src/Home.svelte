@@ -41,6 +41,7 @@
         We support and create projects (and also research) that helps people become the highest performing version of themselves. On top of supporting high performers, we also support privacy, free speech and open-source software.<br><br>
       
         <u>New projects soon!</u><br>
+        <a href="https://burgeonbook.org">Burgeon</a>
       </p>
       </div>
     </div>
